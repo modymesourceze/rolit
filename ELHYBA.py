@@ -1,3 +1,4 @@
+from mody import Mody
 from kvsqlite.sync import Client
 import string, random
 from telebot import TeleBot as tb
